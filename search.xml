@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>hello world</title>
+    <url>/posts/hello_world_url.html</url>
+    <content><![CDATA[<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h1><p>你好世界</p>
+<a id="more"></a>
+
+<p>全文内容</p>
+<img src="/images/my-img.jpg" class="">]]></content>
+      <categories>
+        <category>分类1</category>
+        <category>分类2</category>
+      </categories>
+      <tags>
+        <tag>标签1</tag>
+        <tag>标签2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>posts/test</title>
+    <url>/posts/undefined.html</url>
+    <content><![CDATA[<h1 id="Test"><a href="#Test" class="headerlink" title="Test"></a>Test</h1><h3 id="1-你好啊，吃饭没？"><a href="#1-你好啊，吃饭没？" class="headerlink" title="1.你好啊，吃饭没？"></a>1.你好啊，吃饭没？</h3><h3 id="2-我很好我吃饭了，你呢？"><a href="#2-我很好我吃饭了，你呢？" class="headerlink" title="2. 我很好我吃饭了，你呢？"></a>2. 我很好我吃饭了，你呢？</h3><h3 id="3-今天忙不忙啊啊"><a href="#3-今天忙不忙啊啊" class="headerlink" title="3. 今天忙不忙啊啊"></a>3. 今天忙不忙啊啊</h3>]]></content>
+  </entry>
+</search>
